@@ -5,6 +5,7 @@
 
     <name> -- <role> -- <twitter>
 	Marion Kozar Dev
+	Vincent Kozar DAF
 
 # THANKS
 

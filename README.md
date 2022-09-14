@@ -14,4 +14,4 @@ Sample website with plenty of files for demos
 This is a simple web project
 
 ## How to contribute
-This is how you can contribute with merging
+This is how you can contribute with merging again !
